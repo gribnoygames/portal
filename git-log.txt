@@ -1,0 +1,237 @@
+PS C:\xampp\htdocs\portal> git log --oneline --graph --all
+>> 
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+:
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+:
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+*   97b0535 (HEAD -> main, origin/main) Разрешил конфликт слияния в index.php
+|\  
+| * e1a7491 (feature/title) Изменил h1 в ветке feature/title
+* | 2fb7b80 Изменил h1 в ветке main
+|/  
+*   4558e43 Merge branch 'feature/docs'
+|\  
+| * ef87e4a (feature/docs) Добавил документацию в ветке feature/docs
+* | ffbe86a Поменял заголовок в main
+|/  
+* a8ebfe8 Добавлен 'requirements.md'
+* f28d0e8 Добавлены стили для блока услуг
+* 51b53d2 Добавлен блок 'Наши услуги' на главную страницу
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
