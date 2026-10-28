@@ -8,7 +8,7 @@
 </head>
 <body>
   <header class="hero">
-    <h1>Портал «<?= 'Мой Не Сам' ?>».</h1>
+    <h1>Портал «<?= 'Мой Не Сам' ?>?»</h1>
     <p class="slogan">Бытовые услуги - быстро, честно, по заявке.</p>
     <p class="date">Сегодня <?= date('d.m.Y') ?>, сервер работает на PHP <?= PHP_VERSION ?>.</p>
     <nav class="actions">
