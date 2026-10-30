@@ -63,36 +63,36 @@
 ## 5. Чек-лист экзаменатора по ТЗ-2 (26 пунктов, ответ «да/нет»)
 
 ### Регистрация и вход
-1. [ ] <span style="color:#FFFF00">Есть страница регистрации с полями:</span> <span style="color:#FFC0CB">логин, пароль, ФИО, телефон, email.</span>
-2. [ ] <span style="color:#FFC0CB">Логин принимается только латиницей.</span>
-3. [ ] <span style="color:#FFC0CB">Логин не короче 6 символов.</span>
-4. [ ] <span style="color:#FFC0CB">Логин проверяется на уникальность.</span>
-5. [ ] <span style="color:#FFC0CB">Пароль не короче 6 символов.</span>
-6. [ ] <span style="color:#FFC0CB">ФИО принимает только кириллицу (и пробелы).</span>
-7. [ ] <span style="color:#FFC0CB">Телефон принимается строго в формате `+7(XXX)-XXX-XX-XX`.</span>
-8. [ ] <span style="color:#FFC0CB">Email проверяется на формат.</span>
-9. [ ] <span style="color:#FFFF00">Есть страница входа;</span> <span style="color:#FFC0CB">при неверных данных выводится сообщение об ошибке.</span>
-10. [ ] <span style="color:#00FF00">Администратор входит под</span> <span style="color:#FFC0CB">`adminka`/`password`.</span>
+1. [x] <span style="color:#FFFF00">Есть страница регистрации с полями:</span> <span style="color:#FFC0CB">логин, пароль, ФИО, телефон, email.</span>
+2. [x] <span style="color:#FFC0CB">Логин принимается только латиницей.</span>
+3. [x] <span style="color:#FFC0CB">Логин не короче 6 символов.</span>
+4. [x] <span style="color:#FFC0CB">Логин проверяется на уникальность.</span>
+5. [x] <span style="color:#FFC0CB">Пароль не короче 6 символов.</span>
+6. [x] <span style="color:#FFC0CB">ФИО принимает только кириллицу (и пробелы).</span>
+7. [x] <span style="color:#FFC0CB">Телефон принимается строго в формате `+7(XXX)-XXX-XX-XX`.</span>
+8. [x] <span style="color:#FFC0CB">Email проверяется на формат.</span>
+9. [x] <span style="color:#FFFF00">Есть страница входа;</span> <span style="color:#FFC0CB">при неверных данных выводится сообщение об ошибке.</span>
+10. [x] <span style="color:#00FF00">Администратор входит под</span> <span style="color:#FFC0CB">`adminka`/`password`.</span>
 
 ### Заявки клиента
-11. [ ] <span style="color:#FFFF00">Клиент может создать заявку.</span>
-12. [ ] <span style="color:#FFC0CB">В форме заявки есть выбор вида техники: смартфон, ноутбук, планшет, другое.</span>
-13. [ ] <span style="color:#FFC0CB">При выборе «другое» появляется/доступно поле описания техники.</span>
-14. [ ] <span style="color:#FFC0CB">Есть поле описания неисправности (обязательное).</span>
-15. [ ] <span style="color:#FFC0CB">Есть выбор: адрес **или** самовывоз.</span>
-16. [ ] <span style="color:#FFC0CB">Есть поле желаемой даты.</span>
-17. [ ] <span style="color:#FFC0CB">Клиент видит список **только своих** заявок.</span>
-18. [ ] <span style="color:#FFC0CB">В списке отображается статус каждой заявки.</span>
-19. [ ] <span style="color:#FFC0CB">Клиент не может открыть чужие заявки (в т.ч. по прямой ссылке).</span>
+11. [x] <span style="color:#FFFF00">Клиент может создать заявку.</span>
+12. [x] <span style="color:#FFC0CB">В форме заявки есть выбор вида техники: смартфон, ноутбук, планшет, другое.</span>
+13. [x] <span style="color:#FFC0CB">При выборе «другое» появляется/доступно поле описания техники.</span>
+14. [x] <span style="color:#FFC0CB">Есть поле описания неисправности (обязательное).</span>
+15. [x] <span style="color:#FFC0CB">Есть выбор: адрес **или** самовывоз.</span>
+16. [x] <span style="color:#FFC0CB">Есть поле желаемой даты.</span>
+17. [x] <span style="color:#FFC0CB">Клиент видит список **только своих** заявок.</span>
+18. [x] <span style="color:#FFC0CB">В списке отображается статус каждой заявки.</span>
+19. [x] <span style="color:#FFC0CB">Клиент не может открыть чужие заявки (в т.ч. по прямой ссылке).</span>
 
 ### Админка
-20. [ ] <span style="color:#00FF00">`admin.php` доступна только администратору (клиент по прямой ссылке не проходит).</span>
-21. [ ] <span style="color:#FFFF00">Админ видит все заявки.</span>
-22. [ ] <span style="color:#FFFF00">Админ может сменить статус на:</span> <span style="color:#FFC0CB">Диагностика / В ремонте / Готово к выдаче / Отклонено.</span>
-23. [ ] <span style="color:#FFC0CB">При статусе «Отклонено» обязательно указывается причина.</span>
-24. [ ] <span style="color:#FFC0CB">Причина отклонения сохраняется в БД и видна клиенту.</span>
-25. [ ] <span style="color:#FFFF00">Админ может указать стоимость ремонта;</span> <span style="color:#FFC0CB">она сохраняется и видна клиенту.</span>
-26. [ ] <span style="color:#FFFF00">Есть выход из системы (`logout`).</span>
+20. [x] <span style="color:#00FF00">`admin.php` доступна только администратору (клиент по прямой ссылке не проходит).</span>
+21. [x] <span style="color:#FFFF00">Админ видит все заявки.</span>
+22. [x] <span style="color:#FFFF00">Админ может сменить статус на:</span> <span style="color:#FFC0CB">Диагностика / В ремонте / Готово к выдаче / Отклонено.</span>
+23. [x] <span style="color:#FFC0CB">При статусе «Отклонено» обязательно указывается причина.</span>
+24. [x] <span style="color:#FFC0CB">Причина отклонения сохраняется в БД и видна клиенту.</span>
+25. [x] <span style="color:#FFFF00">Админ может указать стоимость ремонта;</span> <span style="color:#FFC0CB">она сохраняется и видна клиенту.</span>
+26. [x] <span style="color:#FFFF00">Есть выход из системы (`logout`).</span>
 
 **Взаимопроверка:** чек-лист проверен соседом — *Скорых*; найдено пропущенное требование: *указывал на необходимость отображения стоимости ремонта в списке заявок клиента*; исправлено.
 
